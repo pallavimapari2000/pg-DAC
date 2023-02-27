@@ -1,0 +1,13 @@
+
+ 
+
+ 
+8. Write a Java program to find the Most Repeated Characterin the Given String. 
+9. How do you count the Number of Wordsin a given String using Split method? 
+10. Write a Java Program to Print All Combinationsof a given String. 
+11. Write a Java Program to Print All Permutationsof a given String. 
+12. Write a Java Program to find All Subsetsof a Given String using Bitwiseapproach.
+13. Write a Java Program to find All Subsetsof a Given String using Recursionapproach.*/
+
+//===========================================================================================
+
